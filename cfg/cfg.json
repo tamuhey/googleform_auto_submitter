@@ -1,0 +1,16 @@
+{
+  "form_url": "https://docs.google.com/forms/d/e/1FAIpQLSfi7niZmRi2pPG-SwQOCoQGbsqD0dVr7fN3A-Fxu9BZFNS7rQ/",
+  "entry": {
+    "test_radio": 1695359955,
+    "test_checkbox": 1324117104,
+    "test_textbox": 488478780,
+    "test_pulldown": 1434030676
+  },
+  "output":{
+    "test_radio":"yes",
+    "test_checkbox":"cat",
+    "test_textbox":"text",
+    "test_pulldown":1
+  },
+  "line_toeken":""
+}
