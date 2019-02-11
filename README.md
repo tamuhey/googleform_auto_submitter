@@ -3,7 +3,7 @@
 fill googleform, submit, and notify by line  
 
 ## cfg/cfg.json
-configur file
+configuration file
 
 
 
